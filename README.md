@@ -22,5 +22,5 @@ El sistema soporta funcionalidades clave divididas en módulos:
 ###  Normalización y Estructura
 El diseño relacional consta de **18 tablas lógicas** obtenidas mediante un riguroso proceso de normalización:
 1. **1FN (Atomicidad):** Descomposición de atributos multivaluados (intereses, grupos) en entidades independientes.
-2. **2FN (Dependencia Funcional Completa):** Eliminación de dependencias parciales en tablas puente con claves primarias compuestas (`menbresia`, `estudiantes, etc.).
+2. **2FN (Dependencia Funcional Completa):** Eliminación de dependencias parciales en tablas puente con claves primarias compuestas ( menbresia, estudiantes, etc.).
 3. **3FN (Eliminación de Transitividades):** Desvinculación de campos redundantes para evitar anomalías en inserciones, actualizaciones y borrados.
