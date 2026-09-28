@@ -24,3 +24,5 @@ El diseño relacional consta de **18 tablas lógicas** obtenidas mediante un rig
 1. **1FN (Atomicidad):** Descomposición de atributos multivaluados (intereses, grupos) en entidades independientes.
 2. **2FN (Dependencia Funcional Completa):** Eliminación de dependencias parciales en tablas puente con claves primarias compuestas ( menbresia, estudiantes, etc.).
 3. **3FN (Eliminación de Transitividades):** Desvinculación de campos redundantes para evitar anomalías en inserciones, actualizaciones y borrados.
+ 
+## sustentacion en video ( https://drive.google.com/file/d/1TEOL2vJ8tr1Pv7yOdn_ltvQs7uso-TFi/view?usp=sharing )
